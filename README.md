@@ -1,3 +1,1 @@
----
-permalink: /public
----
+Beautiful Banking!
