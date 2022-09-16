@@ -6,8 +6,8 @@ import showcase from "../src/assets/Showcase.png";
 function Showcase() {
   return (
     <div>
-      <div style={{ padding: 20, display: "flex", justifyContent: "center", overflow: "hidden" }}>
-        <Image fluid={true} src={showcase} width={1000} style={{margin: 30, objectFit: "cover"}} />
+      <div style={{display: "flex", justifyContent: "center", overflow: "hidden" }}>
+        <Image fluid={true} src={showcase} width={1000} style={{margin: 10, objectFit: "cover"}} />
       </div>
     </div>
   );
