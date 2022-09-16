@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/beautiful-banking-landing-page/static/css/main.80db20a3.css",
-    "main.js": "/beautiful-banking-landing-page/static/js/main.75e7752f.js",
+    "main.css": "/beautiful-banking-landing-page/static/css/main.f0b21e5f.css",
+    "main.js": "/beautiful-banking-landing-page/static/js/main.cbf7ab38.js",
     "static/js/787.9e51ac1f.chunk.js": "/beautiful-banking-landing-page/static/js/787.9e51ac1f.chunk.js",
     "static/media/Showcase.png": "/beautiful-banking-landing-page/static/media/Showcase.274a864ebfb81e68c968.png",
     "static/media/Contact.png": "/beautiful-banking-landing-page/static/media/Contact.e62a8eef014c1e6f9e7b.png",
@@ -9,12 +9,12 @@
     "static/media/Hero.jpg": "/beautiful-banking-landing-page/static/media/Hero.d4387c3b4f4d1a9c0824.jpg",
     "static/media/logo.svg": "/beautiful-banking-landing-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/beautiful-banking-landing-page/index.html",
-    "main.80db20a3.css.map": "/beautiful-banking-landing-page/static/css/main.80db20a3.css.map",
-    "main.75e7752f.js.map": "/beautiful-banking-landing-page/static/js/main.75e7752f.js.map",
+    "main.f0b21e5f.css.map": "/beautiful-banking-landing-page/static/css/main.f0b21e5f.css.map",
+    "main.cbf7ab38.js.map": "/beautiful-banking-landing-page/static/js/main.cbf7ab38.js.map",
     "787.9e51ac1f.chunk.js.map": "/beautiful-banking-landing-page/static/js/787.9e51ac1f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80db20a3.css",
-    "static/js/main.75e7752f.js"
+    "static/css/main.f0b21e5f.css",
+    "static/js/main.cbf7ab38.js"
   ]
 }
